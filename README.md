@@ -41,6 +41,10 @@ designed a dynamic dashboard analyzing Netflix content trends. Cleaned and struc
 
 ---
 
+## 📷 Preview
+
+- Overview: https://github.com/iSarthakGupta/Netflix-Dashboard/blob/main/Netflix_Dashboard_Overview.png
+- Single Title View: https://github.com/iSarthakGupta/Netflix-Dashboard/blob/main/Netflix_Dashboard_Single%20Title%20View.png
 ## 📁 Project Steps
 
 1. **Data Cleaning**: Removed inconsistencies, filled missing values, formatted columns in Excel  
